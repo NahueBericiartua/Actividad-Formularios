@@ -1,0 +1,8 @@
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\obj\Debug\Actividad Formularios.csprojResolveAssemblyReference.cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\obj\Debug\Actividad_Formularios.MainForm.resources
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\obj\Debug\Actividad Formularios.csproj.GenerateResource.Cache
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\bin\Debug\Actividad Formularios.exe.config
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\bin\Debug\Actividad Formularios.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\bin\Debug\Actividad Formularios.pdb
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\obj\Debug\Actividad Formularios.exe
+C:\Users\Nahue\Documents\SharpDevelop Projects\Actividad Formularios\Actividad Formularios\obj\Debug\Actividad Formularios.pdb

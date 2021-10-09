@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad Formularios", "Actividad Formularios\Actividad Formularios.csproj", "{18776DE6-11A8-44E4-B6C9-77A072593F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18776DE6-11A8-44E4-B6C9-77A072593F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18776DE6-11A8-44E4-B6C9-77A072593F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18776DE6-11A8-44E4-B6C9-77A072593F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18776DE6-11A8-44E4-B6C9-77A072593F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
